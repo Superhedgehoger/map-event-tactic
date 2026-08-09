@@ -1,5 +1,8 @@
 # GeoJSON 地图编辑器 - 使用指南
 
+> [!IMPORTANT]
+> 本项目已于 2026-08-09 停止维护并进入只读归档。功能已由 [Geomap-app](https://github.com/Superhedgehoger/Geomap-app) 继承；需要不含事件追踪器的版本，请使用 [Geomap-app-lite](https://github.com/Superhedgehoger/Geomap-app-lite)。本仓库仅保留历史参考，不再接受新功能。
+
 ## 🎉 新功能概览
 
 现在你的地图应用已经升级为功能完整的 **GeoJSON 编辑器**，类似 geojson.io！
